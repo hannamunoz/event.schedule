@@ -9,4 +9,4 @@ To clear the event, highlight the event and backspace then click save to update 
 
 ## Deployed Application Link
 
-[https://hannamunoz.github.io/java.quiz/](https://hannamunoz.github.io/java.quiz/)
+[https://hannamunoz.github.io/event.schedule/](https://hannamunoz.github.io/event.schedule/)
