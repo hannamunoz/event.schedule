@@ -1,12 +1,11 @@
-![Code Quiz](./screenshot.png)
+![Event Scheduler](./screenshot.png)
 
-# Code Quiz:
-Practice your coding knowledge with this coding quiz. Log your high score to see who can do the best.
+# Event Scheduler:
+Log your days events with the scheduler. Type in your event during each hour block and click save to keep them there.
 
 # How to Use:
-Hit the start button to begin the quiz. Select your answers as you go. If you get the right answer, you'll move
-on to the next. If your answer is wrong, 15 seconds will be subtracted from the time. Log you score at the end to see where
-you compare to others.
+Type the name of your event within the hour block it is occuring. Hit the save button to save the event.
+To clear the event, highlight the event and backspace then click save to update your changes.
 
 ## Deployed Application Link
 
